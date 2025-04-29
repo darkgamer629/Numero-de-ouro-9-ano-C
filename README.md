@@ -106,60 +106,12 @@
       <div class="obra">
         <h3>Mona Lisa</h3>
         <p><strong>Artista:</strong> Leonardo da Vinci</p>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Mona_Lisa.jpg" alt="Mona Lisa">
+        <img src="https://images.unsplash.com/photo-1602528328479-cd6e8f84b2f4" alt="Mona Lisa">
       </div>
       <div class="obra">
         <h3>O Homem Vitruviano</h3>
         <p><strong>Artista:</strong> Leonardo da Vinci</p>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Da_Vinci_Vitruve_Luc_Viatour.jpg" alt="Homem Vitruviano">
+        <img src="https://images.unsplash.com/photo-1602528328480-e7b5a4a8bce7" alt="Homem Vitruviano">
       </div>
       <div class="obra">
-        <h3>Parthenon de Atenas</h3>
-        <p><strong>Autor:</strong> Arquitetos da Grécia Antiga</p>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Parthenon_in_Athens.jpg" alt="Parthenon de Atenas">
-      </div>
-      <div class="obra">
-        <h3>A Criação de Adão</h3>
-        <p><strong>Artista:</strong> Michelangelo</p>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Michelangelo_-_Creation_of_Adam_%28cropped%29.jpg" alt="A Criação de Adão">
-      </div>
-      <div class="obra">
-        <h3>O Nascimento de Vênus</h3>
-        <p><strong>Artista:</strong> Sandro Botticelli</p>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg" alt="O Nascimento de Vênus">
-      </div>
-    </div>
-  </section>
-
-  <section id="artistas">
-    <h2>Artistas que utilizaram o Número de Ouro</h2>
-    <div class="galeria">
-      <div class="artista">
-        <h3>Leonardo da Vinci</h3>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Leonardo_da_Vinci_-_presumed_self-portrait_-_WGA12798.jpg/440px-Leonardo_da_Vinci_-_presumed_self-portrait_-_WGA12798.jpg" alt="Leonardo da Vinci">
-      </div>
-      <div class="artista">
-        <h3>Michelangelo</h3>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Miguel_%C3%81ngel%2C_por_Daniele_da_Volterra_%28detalle%29.jpg" alt="Michelangelo">
-      </div>
-      <div class="artista">
-        <h3>Salvador Dalí</h3>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Salvador_Dali_NYWTS.jpg" alt="Salvador Dalí">
-      </div>
-      <div class="artista">
-        <h3>René Descartes</h3>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg" alt="René Descartes">
-      </div>
-      <div class="artista">
-        <h3>Le Corbusier</h3>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Le_Corbusier.jpg" alt="Le Corbusier">
-      </div>
-    </div>
-  </section>
-
-  <footer>
-    <p><strong>Obrigado por ler! Criado por 9º ano C</strong></p>
-  </footer>
-
-</body>
-</html>
+        <h
